@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/MDJAmin/Mern_Blog_Demo",
+  "homepage": "https://github.com/MDJAmin/MERN-Style-Blog-Frontend-React-Vite-Spline",
   "dependencies": {
     "@splinetool/react-spline": "^4.0.0",
     "@splinetool/runtime": "^1.9.82",
